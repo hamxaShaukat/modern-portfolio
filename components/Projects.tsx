@@ -10,7 +10,7 @@ export default function Projects() {
       tech: ["Next.js", "Prisma", "MongoDB", "TailwindCSS", "Stripe"],
       videoUrl: "https://vimeo.com/1093603999/0e7c66ce28",
       githubUrl: "https://github.com/hamxaShaukat/ai-tools-directory-v1.git",
-      thumbnail: "https://img.youtube.com/vi/rCHsX_Z9nGk/maxresdefault.jpg",
+      thumbnail: "/ai-tools.png",
     },
     {
       id: 2,
@@ -20,7 +20,7 @@ export default function Projects() {
       tech: ["Next.js", "MongoDB", "Prisma", "NextAuth.js", "TailwindCSS"],
       videoUrl: "https://vimeo.com/1093604251/3af36361c6",
       githubUrl: "https://github.com/hamxaShaukat/twitter-clone.git",
-      thumbnail: "https://img.youtube.com/vi/y5n5v_43y4I/maxresdefault.jpg",
+      thumbnail: "/twitter.png",
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ export default function Projects() {
       tech: ["Next.js", "MongoDB", "Prisma", "NextAuth.js", "TailwindCSS"],
        videoUrl: "https://vimeo.com/1093604528/b673efe079",
       githubUrl: "https://github.com/hamxaShaukat/airbnb-clone.git",
-      thumbnail: "https://img.youtube.com/vi/XWJ-2g1s3Sk/maxresdefault.jpg",
+      thumbnail: "/airbnb.png",
     },
   ]
 
