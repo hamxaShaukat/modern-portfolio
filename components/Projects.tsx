@@ -32,6 +32,16 @@ export default function Projects() {
       githubUrl: "https://github.com/hamxaShaukat/airbnb-clone.git",
       thumbnail: "/airbnb.png",
     },
+     {
+      id: 4,
+      title: "Kharido.PK",
+      description:
+        "Full-stack e-commerce platform built with Next.js & Supabase featuring admin-only product listings for quality control.",
+      tech: ["Next.js", "Supabase", "Prisma", "TailwindCSS"],
+       videoUrl: "https://kharido-pk.vercel.app/",
+      githubUrl: "https://github.com/hamxaShaukat/Kharido_pk",
+      thumbnail: "/kharido-pk.png",
+    },
   ]
 
   return (
